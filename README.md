@@ -1,4 +1,4 @@
-Hua-Chen Wu
+**Hua-Chen Wu**
 
 trista.cs11@nycu.edu.tw; huachen.cs11@gmail.com | [LinkedIn](https://www.linkedin.com/in/hua-chen-wu-363252241/) | [GitHub](https://github.com/trista-csee) | 
 
@@ -26,10 +26,11 @@ College of Computer Science (Sep 2022 – Jun 2025)
   - Utilized advanced visualization (t-SNE, UMAP, heatmaps, pairplots) to explore complex multi-factor interactions clearly and intuitively.
   - Awarded 2nd place in the International ICT Innovative Services Awards 2024, reflecting innovation and significant practical impact.
 
-### Advanced Verification Expertise
+### Specialized Verification Training
 - **SiCADA Advanced Design and Verification Training:**
   - Completed 100+ hours of specialized training in Digital Design, Advanced Function Verification, and SoC Frontend Design, mastering essential industry verification skills.
 
+### Advanced Verification Expertise
 - **AMBA5 AHB-Lite Design & Verification Project:**
   - Led the successful integration and synchronization of AHB, APB, and DMA interfaces within a unified RTL design, addressing intricate timing and synchronization challenges.
   - Developed a comprehensive UVM verification environment featuring specialized protocol agents and dual-layer (scoreboard-level and interface-level) coverage strategies, ensuring accurate and thorough verification from transactions to protocol compliance.
