@@ -1,65 +1,75 @@
-**Hua‑Chen Wu**  
-trista.cs11@nycu.edu.tw; huachen.cs11@gmail.com │ [LinkedIn](https://www.linkedin.com/in/hua-chen-wu-363252241/) │ [GitHub](https://github.com/trista-csee) │   
+Hua-Chen Wu
+
+trista.cs11@nycu.edu.tw; huachen.cs11@gmail.com | [LinkedIn](https://www.linkedin.com/in/hua-chen-wu-363252241/) | [GitHub](https://github.com/trista-csee) | 
 
 ---
 
-## PROFESSIONAL SUMMARY  
-Dynamic Design Verification Engineer with deep expertise in FPGA hardware‑software co‑design and advanced UVM methodology. Proven track record of architecting end‑to‑end verification environments, automating build‑and‑coverage flows, and delivering high‑impact, innovation‑driven solutions under tight timelines. Adept at cross‑functional collaboration, process automation, and knowledge sharing to accelerate project delivery and quality.
+## Professional Profile
+
+Dynamic Design Verification Engineer adept in FPGA hardware-software co-design, UVM methodologies, SystemVerilog, and advanced data privacy technologies. Demonstrates an innovative and analytical mindset, capable of addressing complex verification challenges and implementing cutting-edge solutions. Committed to continuous learning, proactive collaboration, and delivering significant organizational impact.
 
 ---
 
-## EDUCATION  
-**National Yang Ming Chiao Tung University**, Hsinchu, Taiwan  
-Master of Science in Computer Science (Expected June 2025)
+## Education
+
+**National Yang Ming Chiao Tung University**  
+College of Computer Science (Sep 2022 – Jun 2025)
 
 ---
 
-## KEY HIGHLIGHTS  
+## Key Highlights
 
-- **Award‑Winning Innovator**  
-  Secured 2nd Place at the 2024 International ICT Innovative Services Awards for “SilverCareHousing – Privacy‑Enhanced Elderly Housing and Care Needs Analysis,” demonstrating exceptional problem‑solving and data‑privacy skills 
+### Award-Winning Innovator
+- **SilverCareHousing – Privacy-Enhanced Elderly Housing and Care Needs Analysis:**
+  - Implemented advanced privacy algorithms (k-anonymity, l-diversity, differential privacy), dynamically balancing data privacy and usability.
+  - Developed hybrid synthetic data generation (VAE and GAN) with rigorous privacy and utility assessment metrics.
+  - Utilized advanced visualization (t-SNE, UMAP, heatmaps, pairplots) to explore complex multi-factor interactions clearly and intuitively.
+  - Awarded 2nd place in the International ICT Innovative Services Awards 2024, reflecting innovation and significant practical impact.
 
-- **End‑to‑End UVM Verification Environment**  
-  Designed and implemented a comprehensive UVM testbench integrating APB, AHB, and DMA protocol agents, custom sequences/drivers/monitors, assertion modules, and a dual‑layer coverage strategy (transaction‑ and signal‑level), ensuring robust multi‑protocol concurrency and error‑injection validation 
+### Advanced Verification Expertise
+- **SiCADA Advanced Design and Verification Training:**
+  - Completed 100+ hours of specialized training in Digital Design, Advanced Function Verification, and SoC Frontend Design, mastering essential industry verification skills.
 
-- **Automated Build & Coverage Flow via Makefile**  
-  Developed a unified Makefile pipeline for Synopsys VCS UVM‑1.2 that automates RTL and testbench compilation, simulation execution, and coverage report generation—streamlining verification cycles and enhancing reproducibility
+- **AMBA5 AHB-Lite Design & Verification Project:**
+  - Led the successful integration and synchronization of AHB, APB, and DMA interfaces within a unified RTL design, addressing intricate timing and synchronization challenges.
+  - Developed a comprehensive UVM verification environment featuring specialized protocol agents and dual-layer (scoreboard-level and interface-level) coverage strategies, ensuring accurate and thorough verification from transactions to protocol compliance.
+  - Implemented robust, dual-layer coverage methods systematically validating transaction-level accuracy and signal-level timing precision.
 
-- **Dynamic Privacy–Performance Synthetic Data Pipeline**  
-  Engineered a Python‑based data‑processing framework combining k‑anonymity, l‑diversity, and dynamic ε differential privacy with a custom VAE–GAN synthesis model. Validated privacy‑utility trade‑offs via Silhouette Score, linkage‑attack metrics, and attribute‑correlation analysis, achieving ≥ 97 % downstream model accuracy while markedly reducing re‑identification risk
-
-- **FPGA‑Accelerated LLM Inference Framework**  
-  Independently delivered a hardware‑software co‑design accelerator for large‑language‑model inference on FPGA, featuring hierarchical memory optimization, pipelined matrix/vector processing units, and quantization techniques, yielding significant throughput and energy‑efficiency gains  
-
----
-
-## TECHNICAL SKILLS  
-
-- **HDL & Verification:** SystemVerilog, Verilog, UVM, AMBA APB/AHB‑Lite  
-- **FPGA Platforms:** Xilinx Alveo U200, Vitis & XRT toolchain  
-- **Languages & Scripting:** C/C++, Python, TCL, Bash  
-- **Data Privacy & ML:** Differential Privacy, k‑Anonymity, VAE/GAN, SMOTE  
-- **Automation & CI/CD:** Makefile, Git, Jenkins  
+### Cutting-Edge Thesis Project
+- **FPGA-Accelerated LLM Inference Optimization:**
+  - Independently designed and implemented a hardware-software co-design framework for FPGA-accelerated inference, significantly enhancing performance and efficiency.
 
 ---
 
-## PROFESSIONAL DEVELOPMENT  
+## Technical Skills
 
-- **SiCADA Purple 100+ (SiCADA 500)** (2024)  
-  Completed 100+ hours in Digital Design, Advanced Verification, and SoC Frontend Design 
-
-- **SiCADA600 AMBA5 AHB‑Lite Design & Verification** (2024)  
-  Executed full‑cycle UVM project integrating AHB‑Lite and APB protocols, mastering complex timing synchronization and protocol compliance
-
----
-
-## UNIQUE VALUE PROPOSITION  
-
-- Rapid mastery and application of cutting‑edge verification methodologies and FPGA optimization techniques  
-- Strong advocate of process automation, driving efficiency and consistency across RTL and verification teams  
-- Collaborative communicator and mentor, fostering knowledge transfer and elevating overall team capability  
+- **Hardware & Verification:** SystemVerilog, Verilog, FPGA Design (Xilinx Alveo U200)
+- **Programming Languages:** C/C++, Python, C#, Swift
+- **Verification Frameworks:** UVM, AHB-Lite, AMBA protocols
+- **Data Privacy & Analytics:** Differential Privacy, VAE, GAN, t-SNE, UMAP
+- **System Integration:** FPGA-AI inference optimization, hardware-software co-design
 
 ---
 
-## CAREER VISION  
-To lead the development of next‑generation verification and acceleration solutions in a global technology organization, continuously pushing the boundaries of system performance, reliability, and data privacy.
+## Professional Development
+
+- **SiCADA Purple 100+ (SiCADA 500)** (2024)
+  - Specialized practical training in digital IC verification methodologies.
+
+- **SiCADA600 AMBA5 AHB-Lite Verification Project** (2024)
+  - Comprehensive experience with full verification cycles using industry-standard UVM environments.
+
+---
+
+## Unique Value Proposition
+
+- Proven track record of mastering advanced verification and FPGA optimization techniques rapidly and effectively.
+- Passionate and proactive collaborator, consistently fostering team synergy and sharing critical knowledge.
+- Highly analytical problem-solver, adept in identifying and resolving sophisticated verification and design challenges.
+
+---
+
+## Career Vision
+
+Aspire to excel as a leading Design Verification Engineer, driving technological innovation, robust verification strategies, and delivering tangible value to advance organizational objectives.
+
