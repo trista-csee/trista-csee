@@ -17,16 +17,16 @@ Master of Science in Computer Science (Expected June 2025)
 ## KEY HIGHLIGHTS  
 
 - **Award‑Winning Innovator**  
-  Secured 2nd Place at the 2024 International ICT Innovative Services Awards for “SilverCareHousing – Privacy‑Enhanced Elderly Housing and Care Needs Analysis,” demonstrating exceptional problem‑solving and data‑privacy skills citeturn0file2  
+  Secured 2nd Place at the 2024 International ICT Innovative Services Awards for “SilverCareHousing – Privacy‑Enhanced Elderly Housing and Care Needs Analysis,” demonstrating exceptional problem‑solving and data‑privacy skills 
 
 - **End‑to‑End UVM Verification Environment**  
-  Designed and implemented a comprehensive UVM testbench integrating APB, AHB, and DMA protocol agents, custom sequences/drivers/monitors, assertion modules, and a dual‑layer coverage strategy (transaction‑ and signal‑level), ensuring robust multi‑protocol concurrency and error‑injection validation citeturn0file1  
+  Designed and implemented a comprehensive UVM testbench integrating APB, AHB, and DMA protocol agents, custom sequences/drivers/monitors, assertion modules, and a dual‑layer coverage strategy (transaction‑ and signal‑level), ensuring robust multi‑protocol concurrency and error‑injection validation 
 
 - **Automated Build & Coverage Flow via Makefile**  
-  Developed a unified Makefile pipeline for Synopsys VCS UVM‑1.2 that automates RTL and testbench compilation, simulation execution, and coverage report generation—streamlining verification cycles and enhancing reproducibility citeturn0file1  
+  Developed a unified Makefile pipeline for Synopsys VCS UVM‑1.2 that automates RTL and testbench compilation, simulation execution, and coverage report generation—streamlining verification cycles and enhancing reproducibility
 
 - **Dynamic Privacy–Performance Synthetic Data Pipeline**  
-  Engineered a Python‑based data‑processing framework combining k‑anonymity, l‑diversity, and dynamic ε differential privacy with a custom VAE–GAN synthesis model. Validated privacy‑utility trade‑offs via Silhouette Score, linkage‑attack metrics, and attribute‑correlation analysis, achieving ≥ 97 % downstream model accuracy while markedly reducing re‑identification risk citeturn0file3  
+  Engineered a Python‑based data‑processing framework combining k‑anonymity, l‑diversity, and dynamic ε differential privacy with a custom VAE–GAN synthesis model. Validated privacy‑utility trade‑offs via Silhouette Score, linkage‑attack metrics, and attribute‑correlation analysis, achieving ≥ 97 % downstream model accuracy while markedly reducing re‑identification risk
 
 - **FPGA‑Accelerated LLM Inference Framework**  
   Independently delivered a hardware‑software co‑design accelerator for large‑language‑model inference on FPGA, featuring hierarchical memory optimization, pipelined matrix/vector processing units, and quantization techniques, yielding significant throughput and energy‑efficiency gains  
@@ -46,10 +46,10 @@ Master of Science in Computer Science (Expected June 2025)
 ## PROFESSIONAL DEVELOPMENT  
 
 - **SiCADA Purple 100+ (SiCADA 500)** (2024)  
-  Completed 100+ hours in Digital Design, Advanced Verification, and SoC Frontend Design citeturn0file0  
+  Completed 100+ hours in Digital Design, Advanced Verification, and SoC Frontend Design 
 
 - **SiCADA600 AMBA5 AHB‑Lite Design & Verification** (2024)  
-  Executed full‑cycle UVM project integrating AHB‑Lite and APB protocols, mastering complex timing synchronization and protocol compliance citeturn0file1  
+  Executed full‑cycle UVM project integrating AHB‑Lite and APB protocols, mastering complex timing synchronization and protocol compliance
 
 ---
 
